@@ -1,2 +1,3 @@
 Dies ist file 1.
 Dies ist eine neue Zeile in file 1.
+Neue Zeile.
